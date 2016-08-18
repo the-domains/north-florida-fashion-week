@@ -1,7 +1,7 @@
 ---
 description: 'https://www.instagram.com/tridence_david/'
-dateModified: '2016-08-04T17:55:28.585Z'
-datePublished: '2016-08-18T18:07:16.319Z'
+dateModified: '2016-08-04T17:55:03.228Z'
+datePublished: '2016-08-18T18:07:18.945Z'
 title: ''
 author: []
 publisher: {}
