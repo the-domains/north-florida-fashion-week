@@ -14,6 +14,11 @@ layout_spectrum: 0.2909549886826426
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62251745-f852-4c16-8018-18a47f4a18b4.jpg
 name: North Florida Fashion Week
+navigation:
+  - name: About
+    url: >-
+      https://www.facebook.com/northfloridafashionweek/about/?entry_point=page_nav_about_item&tab=page_info
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/030c9ea5-9efb-4052-b1e2-319c2151acdc.jpg
 title: NFFW is North Florida's Premier Fashion Event
